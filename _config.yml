@@ -1,2 +1,4 @@
 title: Екатерина Вишнякова
 theme: jekyll-theme-tactile
+plugins:
+  - jekyll-responsive-image
