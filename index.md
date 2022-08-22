@@ -1,5 +1,5 @@
-<img src="images/home.jpg" data-action="zoom">
-<img src="images/chiginitra.jpg" data-action="zoom">
+<img src="images/home.jpg" width="40%" data-action="zoom">
+<img src="images/chiginitra.jpg" width="40%" data-action="zoom">
 
 ![](images/home.jpg)
 
