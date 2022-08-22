@@ -23,8 +23,8 @@
           <h2>{{ page.description | default: site.description }}</h2>
         </header>
         <hr>
+        {% include image-gallery.html folder="/images" %}
         <section id="main_content">
-          {% include image-gallery.html folder="/images" %}
           {{ content }}
         </section>
 
